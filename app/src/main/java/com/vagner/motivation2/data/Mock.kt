@@ -21,7 +21,7 @@ class Mock {
         Phrase("A melhor maneira de prever o futuro é inventá-lo.", sunny),
         Phrase("Você perde todas as chances que você não aproveita.", sunny),
         Phrase("Fracasso é o condimento que dá sabor ao sucesso.", sunny),
-        Phrase(" Enquanto não estivermos comprometidos, haverá hesitação!", sunny),
+        Phrase(" Enquanto não estivermos comprometidos, haverá hesitação de todos!", sunny),
         Phrase("Se você não sabe onde quer ir, qualquer caminho serve.", sunny),
         Phrase("Se você acredita, faz toda a diferença.", sunny),
         Phrase("Riscos devem ser corridos, porque o maior perigo é não arriscar nada!", sunny)
